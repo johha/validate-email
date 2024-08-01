@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rfc822 (0.1.5)
+
+PLATFORMS
+  arm64-darwin-23
+
+DEPENDENCIES
+  rfc822
+
+BUNDLED WITH
+   2.4.19

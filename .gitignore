@@ -1,0 +1,17 @@
+*~
+.idea
+*.iml
+.vscode
+\#*\#
+.\#*
+.bundle
+bundler
+*.rbc
+*.swp
+*.pid
+.DS_Store
+tmp
+out
+tags
+test.err
+test.out
